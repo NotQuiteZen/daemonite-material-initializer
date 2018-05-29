@@ -1,0 +1,9 @@
+{
+  "name": "daemonite-material-initializer",
+  "version": "1.0.0",
+  "description": "Interface to initialize Daemonite Material's components through data-attributes",
+  "main": "index.js",
+  "repository": "https://github.com/NotQuiteZen/daemonite-material-initializer",
+  "author": "Milan van As (milanvanas@gmail.com)",
+  "license": "MIT"
+}
